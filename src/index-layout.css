@@ -1,0 +1,69 @@
+/* @font-face {
+    font-family: 'Montserrat';
+    src: url('./fonts/Montserrat-UltraLight.otf');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./fonts/Montserrat-Light.otf');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./fonts/Montserrat-Regular.otf');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./fonts/Montserrat-SemiBold.otf');
+    font-weight: 400;
+    font-style: normal;
+}
+body {
+  margin: 0;
+  font-family: Montserrat !important;
+  overflow-x: hidden;
+}
+a{
+  text-decoration: none;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-family: Montserrat !important;
+}
+h1{
+  font-size: 26pt;
+  font-weight: 400 !important;
+  color: white;
+  text-transform: uppercase;
+}
+h2{
+  font-size: 30pt;
+  font-weight: 100;
+  color: white;
+  text-transform: uppercase;
+}
+p{
+  font-size: 12pt;
+  font-weight: 100;
+
+}
+
+.root{
+    height: 100vh;
+}
+.root-header{
+    height: 12vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #212121;
+}
+.root-content{
+    height: 88vh;
+    position: relative;
+}
+ */

@@ -1,0 +1,16 @@
+.iconContacto{
+    color: #0093AF;
+    transition: .3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}   
+.iconContacto:hover{
+    cursor: pointer;
+    color: #FAA619;
+    transition: .3s;
+}
+.iconContainer .row a:hover {
+    text-decoration: none;
+}
